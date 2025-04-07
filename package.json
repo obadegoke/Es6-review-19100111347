@@ -1,0 +1,21 @@
+{
+  "name": "es6-review-19100111347",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obadegoke/Es6-review-19100111347.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obadegoke/Es6-review-19100111347/issues"
+  },
+  "homepage": "https://github.com/obadegoke/Es6-review-19100111347#readme"
+}
